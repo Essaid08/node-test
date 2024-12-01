@@ -1,0 +1,2 @@
+The text added by write file async
+----** Some appending text
