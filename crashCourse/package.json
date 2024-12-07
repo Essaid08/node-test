@@ -12,5 +12,8 @@
   "devDependencies": {
     "nodemon": "^3.1.7",
     "prettier": "3.3.3"
+  },
+  "dependencies": {
+    "formidable": "^3.5.2"
   }
 }
